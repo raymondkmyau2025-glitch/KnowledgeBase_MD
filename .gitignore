@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python virtual environments & caches (if added later)
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Temporary / backup files
+*.tmp
+*.bak
+*~
